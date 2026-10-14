@@ -12,7 +12,7 @@ x402 is an open protocol that uses HTTP status code 402 (Payment Required) to en
 
 | Service | Tools | Chains | URL |
 |---------|-------|--------|-----|
-| **Clarity** | chat ($0.001), research report ($2), topup | Base (eip155:8453) | https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402 |
+| [**Clarity**](https://flipperspectives-crypto.github.io/clarity-docs/) | chat ($0.001), research report ($2), topup | Base (eip155:8453) | https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402 |
 | **Rug Munch Intelligence (RMI)** | 221 | 13 (Base, ETH, Solana, BSC, Arbitrum, Polygon, Avalanche, Fantom, Gnosis, Optimism, TRON, BTC, SEPA) | https://rugmunch.io/.well-known/x402 |
 
 *Submit a PR to add your x402 service!*
